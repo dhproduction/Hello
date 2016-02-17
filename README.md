@@ -1,5 +1,3 @@
 #Hello everybody!
 
-
-This is hello world! :)
-2016
+v1.0.0
